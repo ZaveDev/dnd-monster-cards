@@ -33,7 +33,7 @@ export default function HomeCard() {
         <h2>name</h2>
       </div>
       <div className="footer">
-        <button className="primary-btn" onClick={}>
+        <button className="primary-btn" onClick={() => {}}>
           More
         </button>
       </div>
